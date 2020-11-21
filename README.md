@@ -71,6 +71,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ### Demo
 
-https://react-hangman-01.netlify.app/
-https://react-hangman-01.onrender.com/
-https://react-hangman-01.vercel.app/
+https://react-hangman-01.netlify.app/</ br>
+https://react-hangman-01.onrender.com/</ br>
+https://react-hangman-01.vercel.app/</ br>
