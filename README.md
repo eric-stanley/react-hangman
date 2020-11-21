@@ -69,8 +69,16 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-### Demo
+## Demo URL
 
-https://react-hangman-01.netlify.app/</ br>
-https://react-hangman-01.onrender.com/</ br>
-https://react-hangman-01.vercel.app/</ br>
+### Netlify
+
+https://react-hangman-01.netlify.app/ <br/>
+
+### Render
+
+https://react-hangman-01.onrender.com/
+
+### Vercel
+
+https://react-hangman-01.vercel.app/
